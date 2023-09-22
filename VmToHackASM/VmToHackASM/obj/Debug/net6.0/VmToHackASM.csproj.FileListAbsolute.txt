@@ -1,0 +1,15 @@
+C:\Users\Benjamin Roesdal\source\repos\VmToHackASM\VmToHackASM\bin\Debug\net6.0\VmToHackASM.exe
+C:\Users\Benjamin Roesdal\source\repos\VmToHackASM\VmToHackASM\bin\Debug\net6.0\VmToHackASM.deps.json
+C:\Users\Benjamin Roesdal\source\repos\VmToHackASM\VmToHackASM\bin\Debug\net6.0\VmToHackASM.runtimeconfig.json
+C:\Users\Benjamin Roesdal\source\repos\VmToHackASM\VmToHackASM\bin\Debug\net6.0\VmToHackASM.dll
+C:\Users\Benjamin Roesdal\source\repos\VmToHackASM\VmToHackASM\bin\Debug\net6.0\VmToHackASM.pdb
+C:\Users\Benjamin Roesdal\source\repos\VmToHackASM\VmToHackASM\obj\Debug\net6.0\VmToHackASM.csproj.AssemblyReference.cache
+C:\Users\Benjamin Roesdal\source\repos\VmToHackASM\VmToHackASM\obj\Debug\net6.0\VmToHackASM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin Roesdal\source\repos\VmToHackASM\VmToHackASM\obj\Debug\net6.0\VmToHackASM.AssemblyInfoInputs.cache
+C:\Users\Benjamin Roesdal\source\repos\VmToHackASM\VmToHackASM\obj\Debug\net6.0\VmToHackASM.AssemblyInfo.cs
+C:\Users\Benjamin Roesdal\source\repos\VmToHackASM\VmToHackASM\obj\Debug\net6.0\VmToHackASM.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin Roesdal\source\repos\VmToHackASM\VmToHackASM\obj\Debug\net6.0\VmToHackASM.dll
+C:\Users\Benjamin Roesdal\source\repos\VmToHackASM\VmToHackASM\obj\Debug\net6.0\refint\VmToHackASM.dll
+C:\Users\Benjamin Roesdal\source\repos\VmToHackASM\VmToHackASM\obj\Debug\net6.0\VmToHackASM.pdb
+C:\Users\Benjamin Roesdal\source\repos\VmToHackASM\VmToHackASM\obj\Debug\net6.0\VmToHackASM.genruntimeconfig.cache
+C:\Users\Benjamin Roesdal\source\repos\VmToHackASM\VmToHackASM\obj\Debug\net6.0\ref\VmToHackASM.dll
