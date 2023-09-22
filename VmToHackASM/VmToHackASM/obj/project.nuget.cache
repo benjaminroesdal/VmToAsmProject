@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "shB/Xuvkf27/bT2Yigti8ELg0xvF2vQrUx6oo2rfOM5OOso2pT6Cl9rOzJejVd87qSqeI2vWfQ83NL2eU0o+VQ==",
+  "dgSpecHash": "72JhjEkGUiBwM5DuZmfZqhE2A607XYSX6rlm/obGE/G6LEPEcuj+VN9IxfcOAE2CTTzPLSwpUzbcsvNRYajlVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Benjamin Roesdal\\source\\repos\\VmToHackASM\\VmToHackASM\\VmToHackASM.csproj",
+  "projectFilePath": "C:\\Users\\benja\\Documents\\GitHub\\VmToAsmProject\\VmToHackASM\\VmToHackASM\\VmToHackASM.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
